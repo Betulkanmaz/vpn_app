@@ -1,6 +1,27 @@
 # vpn_app
 
 
+## 🚀Kurulum ve Kullanım 
+- Flutter SDK’nın kurulu olduğundan emin olun.
+
+- Projeyi klonlayın
+
+```bash
+  git clone https://github.com/Betulkanmaz/vpn_app.git
+```
+
+- Gerekli paketleri yükleyin
+
+```bash
+  flutter pub get
+```
+
+Uygulamayı başlatın:
+
+```bash
+  flutter run
+```
+
 ## 🧩Proje Yapısı ve Mimari Kararlar
 
 - **StateManagement:** GetX kullanılmıştır. 
