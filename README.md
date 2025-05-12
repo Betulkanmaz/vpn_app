@@ -1,5 +1,5 @@
 # vpn_app
-
+- Flutter ile geliştirilen, kullanıcıların farklı ülkelere VPN bağlantısı kurabildiği, bağlantı durumu ve hız bilgilerini görebildiği bir mobil uygulamadır. GetX state management yöntemi ve MVC mimarisi kullanılmıştır.
 
 ## 🚀Kurulum ve Kullanım 
 - Flutter SDK’nın kurulu olduğundan emin olun.
